@@ -5,25 +5,22 @@ MealMate is a terminal-based C++ application that simulates a dine-in restaurant
 ## 📸 Screenshots
 
 ### 🏠 Main Menu
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="screenshots/HomePage.png" alt="Home Page" style="width: 50%;">
-  <img src="screenshots/details.png" alt="Customer Details" style="width: 40%;">
-</div>
+![Main Menu](./screenshots/HomePage.png)
 
 ### 👤 Enter Customer Details
-![Enter Details](./screenshots/Screenshot%202023-07-03%20112929.png)
+![Enter Details](./screenshots/details.png)
 
 ### 🍽️ Food Menu
-![Food Menu](./screenshots/Screenshot%202023-07-03%20113024.png)
+![Food Menu](./screenshots/foodMenu.png)
 
 ### 💸 Payment Options
-![Payment Options](./screenshots/Screenshot%202023-07-03%20113146.png)
+![Payment Options](./screenshots/payment.png)
 
 ### 🧾 Bill Summary
-![Bill](./screenshots/Screenshot%202023-07-03%20113206.png)
+![Bill](./screenshots/bill.png)
 
 ### ℹ️ About Us
-![About Us](./screenshots/Screenshot%202023-07-03%20113313.png)
+![About Us](./screenshots/aboutus.png)
 
 ---
 
