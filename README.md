@@ -3,32 +3,32 @@
 MealMate is a terminal-based C++ application that simulates a dine-in restaurant food ordering experience. It provides users with a beautifully styled ASCII UI to navigate food categories, place orders, and make payments—just like at a real restaurant!
 
 ## 📸 Screenshots
-<h3 align="center">🏠 Main Menu</h3>
+### 🏠 Main Menu
 <p align="center">
   <img src="./screenshots/HomePage.png" alt="Main Menu" width="500"/>
 </p>
 
-<h3 align="center">👤 Enter Customer Details</h3>
+### 👤 Enter Customer Details
 <p align="center">
   <img src="./screenshots/details.png" alt="Enter Details" width="500"/>
 </p>
 
-<h3 align="center">🍽️ Food Menu</h3>
+### 🍽️ Food Menu
 <p align="center">
   <img src="./screenshots/foodMenu.png" alt="Food Menu" width="500"/>
 </p>
 
-<h3 align="center">💸 Payment Options</h3>
+### 💸 Payment Options
 <p align="center">
   <img src="./screenshots/payment.png" alt="Payment Options" width="500"/>
 </p>
 
-<h3 align="center">🧾 Bill Summary</h3>
+### 🧾 Bill Summary
 <p align="center">
   <img src="./screenshots/bill.png" alt="Bill Summary" width="500"/>
 </p>
 
-<h3 align="center">ℹ️ About Us</h3>
+### ℹ️ About Us
 <p align="center">
   <img src="./screenshots/aboutus.png" alt="About Us" width="500"/>
 </p>
