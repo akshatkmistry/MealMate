@@ -8,7 +8,6 @@ MealMate is a terminal-based C++ application that simulates a dine-in restaurant
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="screenshots/HomePage.png" alt="Home Page" style="width: 30%;">
   <img src="screenshots/details.png" alt="Customer Details" style="width: 30%;">
-  <img src="screenshots/foodMenu.png" alt="Food Menu" style="width: 30%;">
 </div>
 
 ### 👤 Enter Customer Details
